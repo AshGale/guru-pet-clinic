@@ -3,11 +3,8 @@
     <parent>
         <artifactId>guru-pet-clinic</artifactId>
         <groupId>com.web.boot</groupId>
-<<<<<<< HEAD
         <version>0.0.1</version>
-=======
-        <version>0.0.3-SNAPSHOT</version>
->>>>>>> b0ec7735a66dfe7e09cfeb8916fe13a4aa7adf7d
+
     </parent>
     <modelVersion>4.0.0</modelVersion>
 

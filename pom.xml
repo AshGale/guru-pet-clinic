@@ -4,11 +4,9 @@
 
     <groupId>com.web.boot</groupId>
     <artifactId>guru-pet-clinic</artifactId>
-<<<<<<< HEAD
     <version>0.0.1</version>
-=======
-    <version>0.0.3-SNAPSHOT</version>
->>>>>>> b0ec7735a66dfe7e09cfeb8916fe13a4aa7adf7d
+    <!--<version>0.0.1-SNAPSHOT</version>-->
+
 
     <modules>
         <module>pet-clinic-data</module>
@@ -44,27 +42,21 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <configuration>
                     <goals>install</goals>
-<<<<<<< HEAD
+
                     <checkModificationExcludes>
                         <checkModificationExclude>pom.xml</checkModificationExclude>
                     </checkModificationExcludes>
-=======
->>>>>>> b0ec7735a66dfe7e09cfeb8916fe13a4aa7adf7d
+
                 </configuration>
             </plugin>
         </plugins>
     </build>
 
     <scm>
-<<<<<<< HEAD
+
         <developerConnection>scm:git:git@github.com:AshGale/guru-pet-clinic.git</developerConnection>
       <tag>guru-pet-clinic-0.0.1</tag>
   </scm>
-=======
-        <connection>scm:git:https://github.com/AshGale/guru-pet-clinic.git</connection>
-        <url>scm:git://github.com/AshGale/guru-pet-clinic</url>
-        <developerConnection>scm:git:https://github.com/AshGale/guru-pet-clinic.git</developerConnection>
-    </scm>
->>>>>>> b0ec7735a66dfe7e09cfeb8916fe13a4aa7adf7d
+
 
 </project>

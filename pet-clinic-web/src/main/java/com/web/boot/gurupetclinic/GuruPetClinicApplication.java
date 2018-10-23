@@ -8,6 +8,6 @@ public class GuruPetClinicApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GuruPetClinicApplication.class, args);
-        //dummy change 1
+        //dummy change 2
     }
 }

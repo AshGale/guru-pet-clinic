@@ -13,9 +13,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>pet-clinic-data</groupId>
-            <artifactId>com.web.boot</artifactId>
-
+            <groupId>com.web.boot</groupId>
+            <artifactId>pet-clinic-data</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
 
         <dependency>
@@ -42,6 +42,7 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
 
     </dependencies>
 

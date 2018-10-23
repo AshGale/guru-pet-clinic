@@ -3,7 +3,7 @@
     <parent>
         <artifactId>guru-pet-clinic</artifactId>
         <groupId>com.web.boot</groupId>
-        <version>0.0.4</version>
+        <version>0.0.5-SNAPSHOT</version>
 
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -14,7 +14,7 @@
         <dependency>
             <groupId>com.web.boot</groupId>
             <artifactId>pet-clinic-data</artifactId>
-            <version>0.0.4</version>
+            <version>0.0.5-SNAPSHOT</version>
 
         </dependency>
 

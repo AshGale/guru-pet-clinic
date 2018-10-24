@@ -1,6 +1,6 @@
 package com.web.boot.gurupetclinic.model;
 
-public class PetType {
+public class PetType  extends BaseEntity{
 
     private String name;
 
